@@ -1,18 +1,26 @@
+:root {
+  --main-button-color: #e2aeb4;
+}
+
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: #faea06;
 }
 
-button, input {
+button,
+input {
   font-size: 100%;
   font-family: Arial;
+  background-color: var(--main-button-color);
 }
 
 table {
   width: 100%;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
