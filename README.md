@@ -10,8 +10,7 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling
 ```
 
- <br>
-<img src="/ezgif.com-crop.gif" alt="demogif">  
+### Demo:  https://denzgrant.github.io/Budget-Tracker-PWA/
 </p>
   <h2>Table of Contents</h2>
   <ul> 
