@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Node-12.16.3-brightgreen"> <img src="https://img.shields.io/github/last-commit/denzgrant/Employee-Management-System">
+<img src="https://img.shields.io/badge/Node-12.16.3-brightgreen"> <img src="https://img.shields.io/github/last-commit/denzgrant/Budget-Tracker-PWA">
 <h1>Budget-Tracker-PWA :chart_with_upwards_trend:</h1> 
 
 This progressive web application will allow the user to add deposits and expenses. User is able to add expenses and deposits to their budget with or without a connection with using IndexDB. Compression was used to insure the speed. When entering transactions offline, the application populate the total when brought back online.
