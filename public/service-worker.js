@@ -3,8 +3,8 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/favicon.ico",
     "/manifest.webmanifest",
-    "/assets/css/style.css",
-    "/assets/js/loadImages.js",
+    "/assets/css/styles.css",
+    "/dist/index.js",
     "/assets/images/icons/icon-72x72.png",
     "/assets/images/icons/icon-96x96.png",
     "/assets/images/icons/icon-128x128.png",
@@ -16,8 +16,8 @@ const FILES_TO_CACHE = [
 
 ];
 
-const CACHE_NAME = "static-cache-v2";
-const DATA_CACHE_NAME = "data-cache-v1";
+const CACHE_NAME = "static-cache-v3";
+const DATA_CACHE_NAME = "data-cache-v2";
 
 self.addEventListener("install", function (evt) {
     evt.waitUntil(
